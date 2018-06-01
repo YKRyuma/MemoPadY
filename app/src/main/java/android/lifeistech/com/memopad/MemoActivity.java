@@ -9,7 +9,7 @@ import android.widget.EditText;
 public class MemoActivity extends AppCompatActivity {
 
     EditText titleEditText;
-    EditText contentEditText
+    EditText contentEditText;
 
     SharedPreferences pref;
 
